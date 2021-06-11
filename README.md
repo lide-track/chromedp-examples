@@ -1,5 +1,7 @@
 # About chromedp examples
 
+[中文](README-zh.md)
+
 This folder contains a variety of code examples for working with
 [`chromedp`][1]. The godoc page contains a number of [simple examples][2] which
 are generally self-contained, while this repository holds more complex examples
