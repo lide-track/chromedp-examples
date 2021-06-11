@@ -27,7 +27,7 @@ const (
 var spaceRE = regexp.MustCompile(`\s+`)
 
 func main() {
-	readme := flag.String("readme", "README.md", "file to update")
+	readme := flag.String("readme", "README-en.md", "file to update")
 	mask := flag.String("mask", "*/main.go", "")
 	flag.Parse()
 
